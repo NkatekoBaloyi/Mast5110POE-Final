@@ -71,7 +71,7 @@ The Part 2 courses are kept as Starter, Main and Dessert. The row of buttons at 
 
 
 ## Links
-- GitHub repository: _add link here_
+- GitHub repository: https://github.com/NkatekoBaloyi/Mast5110POE-Final/tree/main
 - Demo video (YouTube, unlisted): https://youtu.be/rM_RHptqcSU?si=uCXRc18jQbFhJ73s
 
 ## AI use declaration
