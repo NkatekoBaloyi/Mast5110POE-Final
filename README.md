@@ -72,7 +72,7 @@ The Part 2 courses are kept as Starter, Main and Dessert. The row of buttons at 
 
 ## Links
 - GitHub repository: _add link here_
-- Demo video (YouTube, unlisted): _add link here_
+- Demo video (YouTube, unlisted): https://youtu.be/eku8gIT0dLI
 
 ## AI use declaration
 Claude (Anthropic) was used as an assistant to help draft this README. The code was reviewed and tested with Claude for errors.
